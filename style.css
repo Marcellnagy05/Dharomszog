@@ -1,0 +1,13 @@
+form{
+    width: 600px;
+}
+fieldset{
+  grid-area: 1 / 1;
+  border: 2px solid gray;
+  border-radius: 15px;
+  background-color: bisque;
+}
+
+legend{
+    font-weight: bold;
+}
